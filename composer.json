@@ -1,0 +1,21 @@
+{
+    "name": "tb/taobaosdk",
+    "description": "淘宝官方SDK",
+    "license": "MIT",
+    "require-dev": {
+    },
+    "authors": [
+        {
+            "name": "shrimp",
+            "email": "1732341@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {"taobaosdk\\": "src/"},
+        "files": ["src/TopSdk.php"]
+    }
+}
