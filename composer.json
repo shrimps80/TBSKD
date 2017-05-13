@@ -1,6 +1,7 @@
 {
     "name": "tb/taobaosdk",
     "description": "淘宝官方SDK",
+    "type": "library",
     "license": "MIT",
     "require-dev": {
     },
