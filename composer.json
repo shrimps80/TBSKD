@@ -3,6 +3,7 @@
     "description": "淘宝官方SDK",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "require-dev": {
     },
     "authors": [
